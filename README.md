@@ -7,13 +7,7 @@ With [The Weather Forecasting](https://the-weather-forecasting.netlify.app) user
 <br />
 The app is developed using React.js and material-UI.
 
-<br/>
 
-## 💻 Live Demo:
-
-https://the-weather-forecasting.netlify.app
-
-<br/>
 
 ## ✨ Getting Started
 
